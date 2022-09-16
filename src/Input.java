@@ -43,6 +43,7 @@ public class Input
         stringTwo = keyboard.nextLine();
 
 
+
         //add in input for all variables
         System.out.println("Enter a slightly larger number");
         System.out.println();
